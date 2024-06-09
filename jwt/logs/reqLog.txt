@@ -1,0 +1,6 @@
+20240604	08:13:29	220bbfea-f2fb-4eca-9b7a-ddf924d58946	GET	undefined	/
+20240604	08:13:29	b097d55d-8da2-4f62-a533-9176820c96fd	GET	undefined	/css/style.css
+20240604	08:13:29	41d05767-8b11-4959-9b65-cdd9b232c8c4	GET	undefined	/
+20240604	08:13:29	b428bba2-7fbf-4634-a3a0-3532f1d2e78e	GET	undefined	/css/style.css
+20240604	08:13:30	10ffe472-09c3-45d7-89e7-af057730c568	GET	undefined	/
+20240604	08:13:30	404a2c6c-305d-43ae-83d2-9169bf9b24ba	GET	undefined	/css/style.css
